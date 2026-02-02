@@ -1,5 +1,7 @@
 # PI2C_26
 
+## setup
+
 ## Introduction
 
 - Un
